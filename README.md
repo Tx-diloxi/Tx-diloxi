@@ -57,6 +57,6 @@ N'hésitez pas à explorer mes dépôts pour découvrir mon travail !
 
 - **Email :** marceaulesech_iut@yahoo.fr
 - **Localisation :** Lannion, France
-- **LinkedIn :** [LinkedIn]([https://www.linkedin.com/in/marceau-le-sech-38a60b353/])
+- **LinkedIn :** [LinkedIn](https://www.linkedin.com/in/marceau-le-sech-38a60b353/)
 
 ---
